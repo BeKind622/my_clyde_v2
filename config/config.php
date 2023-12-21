@@ -8,7 +8,7 @@ $un = "student_admin";
 // college password
 $pw = "jeSx@!W1euHa4Kvg";
 // $pw = "xzg0ht-XQp!iWlty";
-$db = "myclyde";
+$db = "my_clyde_dev";
 
 
 $conn = new mysqli($hn, $un, $pw, $db);

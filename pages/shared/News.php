@@ -1,4 +1,4 @@
-<?php include '../../partials/header.php'; ?>
+<?php include '../../partials/Header.php'; ?>
 <?php include '../../config/config.php'; ?>
 <?php include '../../queries/newsQuery.php'; ?>
 <main class="my-8">

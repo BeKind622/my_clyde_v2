@@ -22,7 +22,7 @@
 
       <form action="config/authenticate.php" method="post">
         <div class="mb-4 text-lg">
-          <input class="rounded-3xl border-none bg-yellow-400 bg-opacity-50 px-6 py-2 text-center text-inherit placeholder-slate-200 shadow-lg outline-none backdrop-blur-md" type="text" name="student_num" placeholder="20145874" />
+          <input class="rounded-3xl border-none bg-yellow-400 bg-opacity-50 px-6 py-2 text-center text-inherit placeholder-slate-200 shadow-lg outline-none backdrop-blur-md" type="text" name="student_num" placeholder="student number" />
         </div>
 
         <div class="mb-4 text-lg">
